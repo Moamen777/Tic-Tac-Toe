@@ -1,0 +1,31 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-family: system-ui;
+    color: white;
+    margin: auto;
+}
+
+.title{
+    background-color: red;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+
+span{
+    color: yellow;
+}
+
+.box{
+    width: 75px;
+    height: 75px;
+    background-color: red;
+    border: 2px solid;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.box:hover{
+    cursor: pointer;
+    background-color: black;
+}
